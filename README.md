@@ -37,3 +37,5 @@ Based on the file name and standard restaurant reporting practices, the dashboar
 * Customization: Review the Data Model view to understand the data sources and customize the DAX measures to fit specific       business definitions or needs.
 
 # Screenshot
+  Screenshot looks like : ![Dashboard Preview](https://github.com/26-Abhinav/Restaurant-Detail-Dashboard/blob/main/Snapshot%20of%20Superstore%20Sales%20Dashboard.png)
+
